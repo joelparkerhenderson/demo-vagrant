@@ -21,7 +21,7 @@ Verify:
 
 ```sh
 $ vboxmanage --version
-5.1.14r112924
+6.0.4r128413
 ```
 
 ## Get Vagrant
